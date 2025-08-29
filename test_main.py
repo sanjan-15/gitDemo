@@ -1,4 +1,4 @@
 import main
 
 def test_addition():
-    assert main.add_numbers() == 9
+    assert main.add() == 9
