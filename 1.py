@@ -1,3 +1,5 @@
-a = 2
-b = 7
-print(a + b)
+def add(a, b):
+    return a + b
+
+if __name__ == "__main__":
+    print(add(2, 7))
